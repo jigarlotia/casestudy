@@ -1,5 +1,6 @@
 # New Payment Platform Australia (NPPA) Pty Ltd
 ## Maintaining and developing national infrastructure supporting real-time data-rich payments for the Australian digital economy.
+![Logo](images/logo.jpg)
 &nbsp;
 ### **About the Company**
 New Payment Platform Australia ([NPPA](https://nppa.com.au/)) is the Australian FinTech operating in the Financial Payments domain responsible for maintaining and developing the New Payment Platform (NPP) to ensure it evolves to meet the future needs of the payment industry, consumers and businesses. 

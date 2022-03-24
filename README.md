@@ -4,7 +4,7 @@
 ### **About the Company**
 New Payment Platform Australia ([NPPA](https://nppa.com.au/)) is the Australian FinTech operating in the Financial Payments domain responsible for maintaining and developing the New Payment Platform (NPP) to ensure it evolves to meet the future needs of the payment industry, consumers and businesses. 
 
-New Payments Platform or NPP as it is known, is the payment platform that enables the real time payments across different financial entities in Australia with OSKO&copy; PayID being the well known use case of the platform.
+New Payments Platform or NPP as it is known, is the payment platform that enables the real time payments across different financial entities in Australia with Osko&copy; PayID being the well known use case of the platform.
 
 The platform is jointly owned by 13 financial organisations consisting of mainly big banks such as ANZ, Commonwealth Bank of Australia, NAB, Westpac, CitiBank, HSBC and few others. 
 
@@ -39,7 +39,7 @@ Since then a vibrant ecosystem of participating financial institutions have comm
 ### **Business Actitivities**
 The company's primary objective is to keep evolving the NPP for enabling real-time payments with simple addressing mechanism for e.g. using PayID (information such as an email address, phone number, ABN number or a unique organisational identifier that can be linked to a user’s bank account) and running the platform 24 hours a day, 365 days a year.
 
-The main financial revenue is generated through the fees of being a participant in in the platform (retail, corporate and institutional banking) who in turn providing real-time payment service to their end users.  
+The main financial revenue is generated through the fees of being a participant in the platform (retail, corporate and institutional banking) who in turn providing real-time payment service to their end users.  
 
 Outside of the banking institutions, the industries such as insurance, superannuation, ecommerce, payroll, the gig economy can use the platform and provide real-time payments and each transaction on the platform also generates the transaction fees that is payable to the company which adds to their revenue.
 
@@ -79,13 +79,13 @@ The company has well defined roadmap including but not limited to as below and h
 - PayTo - Customer authorised payments initiated by third parties (similar to direct debit but without using the BSB and Account Details) (end of June 2022)
 - International Payments - Safer, faster inbound international payments with complete payer information (end of April 2023) 
 
-However as a recommendation, I would suggest them to tie up with major ERP payroll providers like SAP whose Payroll ERP solution is used across all the public sector and all the biggest private employers in Australia.
+However as a recommendation, I would suggest them to tie up with major ERP payroll providers like SAP whose Payroll ERP solution is used across all the public sectors and all the biggest private employers in Australia.
 
 This would enable them to provide a solution for millions of Australian workers to have their pay processed through National Payment Platform and reap the benefits of real-time payments.  
 
 Organisations processing payroll through SAP would internally use NPP and can  provide daily earned wages to the employee rather than traditional methods of payments at the end of monthly or fortnightly payroll cycle.  Every day, a worker completes a work and that day's pay is processed through the organisation payroll provider like SAP which would then use the NPP to process the payment real time in the worker's bank account enabling them to access their wage early and easily.  
 
-This would help the workers financially but also organisations to provide more benefits to their employees in terms of real-time daily payment.  The NPPA would also benefit from increased transactions on the platform which would mean increased revenue and more investment into the betterment of the platform.
+This would not only help the workers financially but also organisations to provide more benefits to their employees in terms of real-time daily payments.  The NPPA would also benefit from increased transactions on the platform which would mean increased revenue and more investment into the betterment of the platform.
 
 
 &nbsp;
